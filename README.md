@@ -1,4 +1,4 @@
-# ✨ Hi, I am Hypzex
+# ✨ Hi, I am Yzx
 
 Hi, my name is Arda I started software development 3 year ago with developing Discord bots. And i continue software development with learning Full Stack Web Development. I still learning new stuff in programming. I'm a JavaScript, TypeScript, and Vue developer. 
 
@@ -7,18 +7,18 @@ Hi, my name is Arda I started software development 3 year ago with developing Di
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/908781049838977075" title="Discord Profile"> <img src="https://lanyard-profile-readme.vercel.app/api/908781049838977075"></a>
+    <a href="https://discord.com/users/918924160707756083" title="Discord Profile"> <img src="https://lanyard-profile-readme.vercel.app/api/918924160707756083"></a>
 
 </div>
 
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/908781049838977075" target="_blank"><img src="https://shields.io/badge/Hypzex-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a href="https://github.com/Hypzexxd" target="_blank"><img src="https://shields.io/badge/Hypzex-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://www.npmjs.com/~hypzex" target="_blank"><img src="https://shields.io/badge/Hypzex-111111.svg?&style=for-the-badge&logo=npm"></a>
+    <a href="https://discord.com/users/918924160707756083" target="_blank"><img src="https://shields.io/badge/Yzx-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://github.com/Yzxxd" target="_blank"><img src="https://shields.io/badge/Yzx-111111.svg?&style=for-the-badge&logo=github"></a>
+    <a href="https://www.npmjs.com/~yzx" target="_blank"><img src="https://shields.io/badge/Yzx-111111.svg?&style=for-the-badge&logo=npm"></a>
     <a href="https://discord.gg/maveria" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
-    <a href="https://Hypzexx.tk" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a>
+    <a href="https://Yzx.tk" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a>
 </div>
 
 ## 💻 Technologies I Use
@@ -35,7 +35,7 @@ Hi, my name is Arda I started software development 3 year ago with developing Di
 ## 📈 Github Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hypzexxd&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+    <img src="https://github-readme-stats.vercel.app/api?username=Yzxxd&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hypzexxd&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yzxxd&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
 </div>
