@@ -18,7 +18,7 @@ Hi, my name is Arda I started software development 3 year ago with developing Di
     <a href="https://github.com/Revios" target="_blank"><img src="https://shields.io/badge/Revios-111111.svg?&style=for-the-badge&logo=github"></a>
     <a href="https://www.npmjs.com/~Revios" target="_blank"><img src="https://shields.io/badge/Revios-111111.svg?&style=for-the-badge&logo=npm"></a>
     <a href="https://discord.gg/maveria" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
-    <a href="https://Yzx.tk" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a>
+    <a href="https://revios.tk" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a>
 </div>
 
 ## 💻 Technologies I Use
