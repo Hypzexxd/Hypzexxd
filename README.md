@@ -1,4 +1,4 @@
-# ✨ Hi, I am Yzx
+# ✨ Hi, I am Revios
 
 Hi, my name is Arda I started software development 3 year ago with developing Discord bots. And i continue software development with learning Full Stack Web Development. I still learning new stuff in programming. I'm a JavaScript, TypeScript, and Vue developer. 
 
@@ -14,9 +14,9 @@ Hi, my name is Arda I started software development 3 year ago with developing Di
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/918924160707756083" target="_blank"><img src="https://shields.io/badge/Yzx-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a href="https://github.com/Yzxxd" target="_blank"><img src="https://shields.io/badge/Yzx-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://www.npmjs.com/~yzx" target="_blank"><img src="https://shields.io/badge/Yzx-111111.svg?&style=for-the-badge&logo=npm"></a>
+    <a href="https://discord.com/users/918924160707756083" target="_blank"><img src="https://shields.io/badge/Revios-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://github.com/Revios" target="_blank"><img src="https://shields.io/badge/Revios-111111.svg?&style=for-the-badge&logo=github"></a>
+    <a href="https://www.npmjs.com/~Revios" target="_blank"><img src="https://shields.io/badge/Revios-111111.svg?&style=for-the-badge&logo=npm"></a>
     <a href="https://discord.gg/maveria" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
     <a href="https://Yzx.tk" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a>
 </div>
@@ -35,7 +35,7 @@ Hi, my name is Arda I started software development 3 year ago with developing Di
 ## 📈 Github Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yzxxd&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+    <img src="https://github-readme-stats.vercel.app/api?username=Revios&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yzxxd&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revios&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
 </div>
