@@ -1,41 +1,72 @@
-# ✨ Hi, I am Revios
-
-Hi, my name is Arda I started software development 3 year ago with developing Discord bots. And i continue software development with learning Full Stack Web Development. I still learning new stuff in programming. I'm a JavaScript, TypeScript, and Vue developer. 
-
+<body>
+  <center>
+<h1 align="center">~  𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮  ~</h1>
+<br>
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Hypzexx&color=dc143c"/>
-</div>
-
-<div align="center">
-    <a href="https://discord.com/users/463955400388247552" title="Discord Profile"> <img src="https://lanyard-profile-readme.vercel.app/api/463955400388247552"></a>
-
-</div>
-
-## ⚡ Contact
-
-<div align="center">
-    <a href="https://discord.com/users/918924160707756083" target="_blank"><img src="https://shields.io/badge/Revios-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a href="https://github.com/Revios" target="_blank"><img src="https://shields.io/badge/Revios-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://www.npmjs.com/~Revios" target="_blank"><img src="https://shields.io/badge/Revios-111111.svg?&style=for-the-badge&logo=npm"></a>
-    <a href="https://discord.gg/maveria" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
-    <a href="https://revios.tk" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a>
-</div>
-
-## 💻 Technologies I Use
-
-<div align="center">
-    <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
-    <img alt="TypeScript" align="center" src="https://img.shields.io/badge/-Typescript-007acc?style=flat-square&logo=typescript&logoColor=white"/>
-    <img alt="Vue.js" align="center" src="https://img.shields.io/badge/-Vue.js-41B883?style=flat-square&logo=vue.js&logoColor=white"/>
-    <img alt="Sass" align="center" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
-    <img alt="HTML5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-    <img alt="CSS3" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
-</div>
-
-## 📈 Github Stats
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Revios&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+<!-- <a href="https://discord.com/users/202740603790819328" > -->
+  <a href="https://thicc-thighs.de/" >
+   <img src="https://lanyard.kyrie25.me/api/463955400388247552?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
+  </a>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revios&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
+
+  
 </div>
+    <div align="center">
+<!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
+      </div>
+<div>
+<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+  <div align="center">
+<!– <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+  </div>
+<li>
+ <b>Name:</b> Arda</li>
+<li>
+<b>Loves:</b> Csgo, Philosophy
+</li>
+<li>
+<b>Gender:</b> he
+</li>
+
+
+<li>
+<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
+</li>
+<li>
+<b>Working @:</b> Intave Anticheat
+</li>
+<br><br><br>
+</div>
+<div>
+<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+ <br>
+<p>
+  <div align="center">
+<!– <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+  </div>
+</div>
+<div>
+  <br>
+<p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
+ <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
+Im also very good at writing Guides like my Yuzu Emulator Guide or writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design and trying out character animation.
+</p>
+<br>
+<h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+  <div align="center">
+<!– <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px"> 
+  </div>
+<br>
+<p align="center"><a href="https://twitter.com/reaw" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.gg/reawgod" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+</div>
+<br>
+<div>
+<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<div align="center">
+<!– <img src="https://i.imgur.com/tzYKRfd.gif">
+</div>
+<hr>
+</div>
+</div>
+    </center>
+</body>
