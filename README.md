@@ -57,7 +57,7 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 <!– <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px"> 
   </div>
 <br>
-<p align="center"><a href="https://twitter.com/reaw" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.gg/reawgod" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center"><a href="https://twitter.com/reaw" target="_blank"><img src="https://img.shields.io/badge/Reaw%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.gg/reawgod" target="_blank"><img src="https://img.shields.io/badge/Reaw%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 </div>
 <br>
 <div>
